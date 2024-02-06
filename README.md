@@ -1,4 +1,4 @@
-# Inspiration
+# Inspiration:
 
 This is a continuation on my previous implementation of the snake game.
 
