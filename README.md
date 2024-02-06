@@ -17,7 +17,7 @@ This model is probably not the most optimal in terms of time but it was really g
 
 ![training-in-action](https://github.com/kanavshetty/Snake-Game-AI/assets/143675313/0ec00ba5-bf48-48e0-ad21-f97cd104fb25)
 
-The video linked up has ben sped up to 16 times and the agent took about 35 minutes to be good enough to get a high score of 62.
+The video linked above has been sped up 16 times and the agent took about 35 minutes to be good enough to get a high score of 62.
 
 
 
