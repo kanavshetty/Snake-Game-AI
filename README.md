@@ -15,5 +15,7 @@ This model is probably not the most optimal in terms of time but it was really g
 # What does the training process look like?
 
 
-![training-in-action](https://github.com/kanavshetty/Snake-Game-AI/blob/main/images/snake_game_ai.mp4)
+![training-in-action](https://github.com/kanavshetty/Snake-Game-AI/assets/143675313/0ec00ba5-bf48-48e0-ad21-f97cd104fb25)
+
+
 
