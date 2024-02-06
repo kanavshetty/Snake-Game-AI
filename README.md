@@ -1,3 +1,5 @@
+# Inspiration
+
 This is a continuation on my previous implementation of the snake game.
 
 After implementing my first ever game, I was inspired to improve on it even more. I spoke with my professor and he recommended trying to explore the world of Machine Learning through this project. Machine Learning has always been a topic of my interest and throught this simple project I was able to understand many of its intricacies. 
